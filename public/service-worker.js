@@ -3,7 +3,9 @@ const FILES_TO_CACHE = [
     "/index.html",
     "/icons/icon-192x192.png",
     "/icons/icon-512x512.png",
-    "/styles.css"
+    "/styles.css",
+    "/db.js",
+    "/index.js"
 ];
 
 const STATIC_CACHE = "static-cache-v1";
